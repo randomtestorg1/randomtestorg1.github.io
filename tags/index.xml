@@ -1,121 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on kshitij10496</title>
-    <link>https://randomtestorg1.github.io/tags/</link>
-    <description>Recent content in Tags on kshitij10496</description>
+    <title>Tags on sangeet259</title>
+    <link>https://sangeet259.github.io/tags/</link>
+    <description>Recent content in Tags on sangeet259</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Sep 2018 19:03:31 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2017 19:03:31 +0530</lastBuildDate>
     
-	<atom:link href="https://randomtestorg1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sangeet259.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Git</title>
-      <link>https://randomtestorg1.github.io/tags/git/</link>
-      <pubDate>Sun, 09 Sep 2018 19:03:31 +0530</pubDate>
+      <title>Blog</title>
+      <link>https://sangeet259.github.io/tags/blog/</link>
+      <pubDate>Tue, 14 Nov 2017 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/git/</guid>
+      <guid>https://sangeet259.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Github</title>
-      <link>https://randomtestorg1.github.io/tags/github/</link>
-      <pubDate>Sun, 09 Sep 2018 19:03:31 +0530</pubDate>
+      <title>Customization</title>
+      <link>https://sangeet259.github.io/tags/customization/</link>
+      <pubDate>Fri, 26 Jan 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/github/</guid>
+      <guid>https://sangeet259.github.io/tags/customization/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://randomtestorg1.github.io/tags/go/</link>
-      <pubDate>Sun, 11 Nov 2018 09:06:32 +0530</pubDate>
+      <title>Deep Learning</title>
+      <link>https://sangeet259.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 07 Jan 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/go/</guid>
+      <guid>https://sangeet259.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://randomtestorg1.github.io/tags/hugo/</link>
-      <pubDate>Sun, 09 Sep 2018 19:03:31 +0530</pubDate>
+      <title>Devops</title>
+      <link>https://sangeet259.github.io/tags/devops/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/hugo/</guid>
+      <guid>https://sangeet259.github.io/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Iterable</title>
-      <link>https://randomtestorg1.github.io/tags/iterable/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0530</pubDate>
+      <title>Docker</title>
+      <link>https://sangeet259.github.io/tags/docker/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/iterable/</guid>
+      <guid>https://sangeet259.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lego</title>
-      <link>https://randomtestorg1.github.io/tags/lego/</link>
-      <pubDate>Sun, 11 Nov 2018 09:06:32 +0530</pubDate>
+      <title>Extensions</title>
+      <link>https://sangeet259.github.io/tags/extensions/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/lego/</guid>
+      <guid>https://sangeet259.github.io/tags/extensions/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Motivation</title>
-      <link>https://randomtestorg1.github.io/tags/motivation/</link>
-      <pubDate>Sun, 04 Nov 2018 00:21:02 +0530</pubDate>
+      <title>Fish</title>
+      <link>https://sangeet259.github.io/tags/fish/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/motivation/</guid>
+      <guid>https://sangeet259.github.io/tags/fish/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Oop</title>
-      <link>https://randomtestorg1.github.io/tags/oop/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 +0530</pubDate>
+      <title>Gsoc</title>
+      <link>https://sangeet259.github.io/tags/gsoc/</link>
+      <pubDate>Sun, 12 Aug 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/oop/</guid>
+      <guid>https://sangeet259.github.io/tags/gsoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacks</title>
+      <link>https://sangeet259.github.io/tags/hacks/</link>
+      <pubDate>Sun, 07 Jan 2018 19:03:31 +0530</pubDate>
+      
+      <guid>https://sangeet259.github.io/tags/hacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intropost</title>
+      <link>https://sangeet259.github.io/tags/intropost/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://sangeet259.github.io/tags/intropost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>https://sangeet259.github.io/tags/jekyll/</link>
+      <pubDate>Tue, 14 Nov 2017 19:03:31 +0530</pubDate>
+      
+      <guid>https://sangeet259.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mercurial</title>
+      <link>https://sangeet259.github.io/tags/mercurial/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://sangeet259.github.io/tags/mercurial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ml Dl Ai Ip</title>
+      <link>https://sangeet259.github.io/tags/ml-dl-ai-ip/</link>
+      <pubDate>Thu, 07 Dec 2017 19:03:31 +0530</pubDate>
+      
+      <guid>https://sangeet259.github.io/tags/ml-dl-ai-ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Octobus</title>
+      <link>https://sangeet259.github.io/tags/octobus/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://sangeet259.github.io/tags/octobus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proxy</title>
+      <link>https://sangeet259.github.io/tags/proxy/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://sangeet259.github.io/tags/proxy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psf</title>
+      <link>https://sangeet259.github.io/tags/psf/</link>
+      <pubDate>Sun, 12 Aug 2018 19:03:31 +0530</pubDate>
+      
+      <guid>https://sangeet259.github.io/tags/psf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://randomtestorg1.github.io/tags/python/</link>
-      <pubDate>Sun, 17 Dec 2017 00:00:00 +0530</pubDate>
+      <link>https://sangeet259.github.io/tags/python/</link>
+      <pubDate>Thu, 07 Dec 2017 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/python/</guid>
+      <guid>https://sangeet259.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sympy</title>
-      <link>https://randomtestorg1.github.io/tags/sympy/</link>
-      <pubDate>Sun, 07 Aug 2016 00:00:00 +0530</pubDate>
+      <title>Setup</title>
+      <link>https://sangeet259.github.io/tags/setup/</link>
+      <pubDate>Thu, 07 Dec 2017 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/tags/sympy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Typing</title>
-      <link>https://randomtestorg1.github.io/tags/typing/</link>
-      <pubDate>Sun, 10 Dec 2017 00:00:00 +0530</pubDate>
-      
-      <guid>https://randomtestorg1.github.io/tags/typing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>https://randomtestorg1.github.io/tags/writing/</link>
-      <pubDate>Sun, 04 Nov 2018 00:21:02 +0530</pubDate>
-      
-      <guid>https://randomtestorg1.github.io/tags/writing/</guid>
+      <guid>https://sangeet259.github.io/tags/setup/</guid>
       <description></description>
     </item>
     

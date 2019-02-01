@@ -1,217 +1,192 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on kshitij10496</title>
-    <link>https://randomtestorg1.github.io/posts/</link>
-    <description>Recent content in Posts on kshitij10496</description>
+    <title>Posts on sangeet259</title>
+    <link>https://sangeet259.github.io/posts/</link>
+    <description>Recent content in Posts on sangeet259</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Nov 2018 20:14:30 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jan 2019 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://randomtestorg1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sangeet259.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Case for being Non-violence</title>
-      <link>https://randomtestorg1.github.io/posts/on-non-violence/</link>
-      <pubDate>Wed, 28 Nov 2018 20:14:30 +0530</pubDate>
+      <title>Using Evolve from source</title>
+      <link>https://sangeet259.github.io/posts/evolve-from-source/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/on-non-violence/</guid>
-      <description>It was not about being the &amp;ldquo;bigger man&amp;rdquo;. Essentially it was about becoming a principled, disciplined person. I think it&amp;rsquo;s totally normal for us to feel angry at some point. It&amp;rsquo;s not about teleology - estiology: answer what could this experience mean? From now onwards, whenever I find myself getting frustrated at a person/thing, I delude myself to think of a happy memory associated with it. It&amp;rsquo;s a pretty hack I&amp;rsquo;ve been using lately.</description>
+      <guid>https://sangeet259.github.io/posts/evolve-from-source/</guid>
+      <description>I was working on Evolve. I made some changes to it&amp;rsquo;s codebase, at this point it becomes very important to me to see the effect of the changes that I make, because unlike others who just trust their code and directly run tests on the code.
+I don&amp;rsquo;t run tests unless I see the working of the code I write.
+Doing this for Mercurial repo was easier, I didn&amp;rsquo;t have to do much.</description>
     </item>
     
     <item>
-      <title>Why I Write Go</title>
-      <link>https://randomtestorg1.github.io/posts/on-go/</link>
-      <pubDate>Sun, 11 Nov 2018 09:06:32 +0530</pubDate>
+      <title>GSoC Final Post</title>
+      <link>https://sangeet259.github.io/posts/gcoc-final-post/</link>
+      <pubDate>Sun, 12 Aug 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/on-go/</guid>
-      <description>tl;dr: This is not a rant about how Go is &amp;ldquo;superior&amp;rdquo; to other languages. It&amp;rsquo;s all apples and oranges and I like them both, not at the same time, ofcourse! 🍎/🍊
-off-topic: When I was a little boy 👦, I used to play all day long with my legos - constructing buildings, trucks, everything that I could imagine. Chaining dominoes with my parent&amp;rsquo;s music collection cassettes, solving jigsaw puzzles and playing scrabble with my cousins.</description>
+      <guid>https://sangeet259.github.io/posts/gcoc-final-post/</guid>
+      <description>HG Grep | The Google Summer of Code Project Mercurial | Python Software Foundation Mentors : Yuya Nishihara, Pulkit Goyal, Jordi GH, Kevin Bullock, Sean Farley
+I did my project under Python Software Foundation and Mercurial. My project in the GSoC’18 dealt with the grepping aspect of Mecurial
+Now, before diving into it, making some things clear from the title.
+What is Google Summer of Code ? 
+Google Summer of Code is program to promote open-source development.</description>
     </item>
     
     <item>
-      <title>Make Blog Great Again</title>
-      <link>https://randomtestorg1.github.io/posts/blogging/</link>
-      <pubDate>Sun, 04 Nov 2018 00:21:02 +0530</pubDate>
+      <title>GSoC Blog Post 7</title>
+      <link>https://sangeet259.github.io/posts/gcoc-post-7/</link>
+      <pubDate>Wed, 08 Aug 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/blogging/</guid>
-      <description>tl;dr: post about posting more posts
-I have forgotten to write blog posts for over a year or have I?
-Blogging 101 I started this blog after I was selected as a GSoC 2016 student under SymPy so as to log my progress. Few weeks working into the program, it seemed that I had developed the habit of writing weekly articles. Back then, I intended to continue maintaining my blog.</description>
+      <guid>https://sangeet259.github.io/posts/gcoc-post-7/</guid>
+      <description>GSoC Blog post #7 This week I worked on passing multiple revisions to the –allfiles flag.
+The PR can be found at https://phab.mercurial-scm.org/D3976
+It’s assumed that if you are passing multiple revisions to –allfiles, you want hits from all of them. This was the behaviour that was chose after a discussion with Yuya.
+The initial patch that I had sent had a different behaviour.
+It made sure it just check the files only once by maintaining a dictionary called files.</description>
     </item>
     
     <item>
-      <title>Hugo Blog On GitHub Pages</title>
-      <link>https://randomtestorg1.github.io/posts/hugo-blog-setup/</link>
-      <pubDate>Sun, 09 Sep 2018 19:03:31 +0530</pubDate>
+      <title>GSoC Blog Post 6</title>
+      <link>https://sangeet259.github.io/posts/gcoc-post-6/</link>
+      <pubDate>Tue, 24 Jul 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/hugo-blog-setup/</guid>
-      <description>Looking to create your personal blog using Hugo and hosting it on GitHub Pages?
-To be honest, it can sound a bit intimidating and challenging at first.
-I, too, felt the same while I setup this blog using Hugo and the Coder theme.
-In this post, I share my experience during the process - from the specific commands to the lessons learnt.
-In addition to this, I also share my workflow for publishing posts using a shell script.</description>
+      <guid>https://sangeet259.github.io/posts/gcoc-post-6/</guid>
+      <description>GSoC Blog post #6 At the beginning of this week, my previous commit was revert and set to config = False, meaning that it is hidden behind that config option. That’s because it was a period of code freeze in mercurial as the next release is due in some days, so unless a feature is completely tested it can’t be released.
+Link to the revision: https://phab.mercurial-scm.org/D3919
+Next Yuya told me to work on passing multiple revisions with –all-files mode.</description>
     </item>
     
     <item>
-      <title>For some Context</title>
-      <link>https://randomtestorg1.github.io/posts/for-some-context/</link>
-      <pubDate>Sun, 17 Dec 2017 00:00:00 +0530</pubDate>
+      <title>GSoC Blog Post 5</title>
+      <link>https://sangeet259.github.io/posts/gcoc-post-5/</link>
+      <pubDate>Mon, 09 Jul 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/for-some-context/</guid>
-      <description>There are a lot of good resources about using context packages in software based on your programming language. However, I found that most of these do not address the basic questions of motivation behind the need of context: - How does the use of context help us in programming? - When should a programmer use context?
-In this blog post, I will share what I understand about context.
-Motivation Consider you are an event manager of a restaurant.</description>
+      <guid>https://sangeet259.github.io/posts/gcoc-post-5/</guid>
+      <description>GSOC Blog Post #5 This time I was working on changing the default of the grep command to a new behaviour.
+With this patch grep searches on the working directory by default and looks for all files tracked by the working directory and greps on them
+==========================Demonstration================
+OLD BEHAVIOUR
+$ hg init a $ cd a $ echo &amp;#34;some text&amp;#34;&amp;gt;&amp;gt;file1 $ hg add file1 $ hg commit -m &amp;#34;adds file1&amp;#34; $ hg mv file1 file2 $ hg grep &amp;#34;some&amp;#34; file2:1:some text file1:0:some text This behaviour is undesirable since file1 is not in the current history and was renamed as file2, so the second result was redundant and confusing</description>
     </item>
     
     <item>
-      <title>Typing in Python, Go and JavaScript</title>
-      <link>https://randomtestorg1.github.io/posts/typing/</link>
-      <pubDate>Sun, 10 Dec 2017 00:00:00 +0530</pubDate>
+      <title>GSoC Blog Post 4</title>
+      <link>https://sangeet259.github.io/posts/gcoc-post-4/</link>
+      <pubDate>Wed, 27 Jun 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/typing/</guid>
-      <description>Disclaimer: This post has been written from the point-of-view of a software developer rather than a theoretical computer science. So I &amp;ldquo;ask for forgiveness&amp;rdquo; if the post seems too colloquial and pragmatic.
- Reading through the articles on programming languages, you are bound to stumble upon statements similar to the following: 1. &amp;ldquo;Python is a strongly typed, dynamic language.&amp;rdquo; 2. &amp;ldquo;Go is a statically typed, strong language.&amp;rdquo; 3. &amp;ldquo;JavaScript is a dynamic language which is weakly typed.</description>
+      <guid>https://sangeet259.github.io/posts/gcoc-post-4/</guid>
+      <description>GSoC Blog Post #4 Another Fortnight gone by, and perhaps this was the time when we got most work done.
+This time around I added two new features to mercurial.
+They are: The allfiles mode
+This would work on a single revision and get all the files that were there in that revision. So it’s like grepping on a previous state. Using this with wdir() :: hg grep -r &amp;ldquo;wdir()&amp;rdquo; &amp;ndash;allfiles is what the default behaviour is desired for grep.</description>
     </item>
     
     <item>
-      <title>Duck Typing in Python</title>
-      <link>https://randomtestorg1.github.io/posts/duck-typing-in-python/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 +0530</pubDate>
+      <title>GSoC Blog Post 3</title>
+      <link>https://sangeet259.github.io/posts/gcoc-post-3/</link>
+      <pubDate>Mon, 11 Jun 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/duck-typing-in-python/</guid>
-      <description>What is Duck Typing? Python is a dynamic language which is strongly typed. Dynamic binding is the capability to use an instance without regard for its type. It is handled entirely through a simple attribute lookup process. Whenever an attribute is accessed as object.attribute: 1. attribute is located by searching within the instance itself. This yields a positive result when the attribute being searched for is an instance variable or method.</description>
+      <guid>https://sangeet259.github.io/posts/gcoc-post-3/</guid>
+      <description>GSoC Blog Post 3 These two weeks I was involved in fixing the –wdir(). Yuya had asked me to not create an entire separate if/else block as that might lead to untested code paths.
+So I was trying to work out another way. While I was trying to figure out a way to do this I realised the code had changed a bit since my last patch, and it nows throws WdirUnsupported exception.</description>
     </item>
     
     <item>
-      <title>How Iterables Actually Work in Python</title>
-      <link>https://randomtestorg1.github.io/posts/how-iterables-actually-work-in-python/</link>
-      <pubDate>Mon, 28 Aug 2017 00:00:00 +0530</pubDate>
+      <title>GSoC Blog Post 2</title>
+      <link>https://sangeet259.github.io/posts/gsoc-post-2/</link>
+      <pubDate>Mon, 28 May 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/how-iterables-actually-work-in-python/</guid>
-      <description>This past week I read about Python&amp;rsquo;s iterator protocol and how the philosophy of iteration is deeply embedded into the language design. Many features that I love about Python such as list comprehensions, tuple unpacking leverage the power of iterator protocol. I wrote an article on Medium explaining how developers can implement it and use these features much more efficiently in their day-to-day life.</description>
+      <guid>https://sangeet259.github.io/posts/gsoc-post-2/</guid>
+      <description>So it is two weeks into the coding period and I thankfully haven’t fallen much behind my own set timeline.
+The tasks that I had set this week were fixing the&amp;ndash;all flag and fix the working directory grep. Thankfully I had done major of this work during/after submission. The fix of the &amp;ndash;all was tested and merged and is a part of the stable version of hg now.
+The best part of the issue was that fixing it took just changing two lines.</description>
     </item>
     
     <item>
-      <title>GSoC Week 10 &amp; 11 - The One with `solvify`</title>
-      <link>https://randomtestorg1.github.io/posts/gsoc-week-10-11/</link>
-      <pubDate>Sun, 07 Aug 2016 00:00:00 +0530</pubDate>
+      <title>Demonstrating the problem with forward ordered grep --all</title>
+      <link>https://sangeet259.github.io/posts/mercurial-grep-all-issue/</link>
+      <pubDate>Sun, 13 May 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/gsoc-week-10-11/</guid>
-      <description>FiniteSet | list ImageSet, | list (if `f` is periodic) Union | EmptySet | empty list Others | None  Adding domain support.
-I added a domain argument to isolve whose default value is the real domain (domain=S.Reals). A few limitation to the conditions of S.Infinity and S.NegativeInfinity followed.
-Another noticable point, from the point of implementation, was to deal with singularities and discontinuities of the given inequality. For this, I used the continuous_domain method to find the continuous domains of the expression within the specified domain.</description>
+      <guid>https://sangeet259.github.io/posts/mercurial-grep-all-issue/</guid>
+      <description>Demonstrating the problem with forward ordered grep --all So if you do a hg grep &amp;quot;pattern&amp;quot; --all, you would get all the lines along with revision numbers showing when this pattern appeared or disappeared from the repository. Cool, that’s what we want.
+And by default, it does a reverse revlog search. That is, it starts from the latest revision and goes all the way upto the oldest one. And accordingly shows you the result.</description>
     </item>
     
     <item>
-      <title>GSoC Week 09 - The One with Inequalities</title>
-      <link>https://randomtestorg1.github.io/posts/gsoc-week-09/</link>
-      <pubDate>Sun, 24 Jul 2016 00:00:00 +0530</pubDate>
+      <title>Proposal acceptance and community bonding period</title>
+      <link>https://sangeet259.github.io/posts/gsoc-proposal-acceptance/</link>
+      <pubDate>Sun, 13 May 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/gsoc-week-09/</guid>
-      <description>This week I worked on solving trigonometric inequalities.
-Trigonometric inequalities The primary univariate inequality solver - solve_univariate_inequality,
-depends upon the results of solve in order to solve the given inequality. Taking a cue from PR#10022 on incorporating solveset for inequalities, I worked on developing an approach for replacing the use of solve with solveset in solving inequalities.
-Idea
- Convert Set-type output from solveset to list objects similar to that returned by solve.</description>
+      <guid>https://sangeet259.github.io/posts/gsoc-proposal-acceptance/</guid>
+      <description>Proposal acceptance and community bonding period Two weeks into the summer break and the gsoc coding period is about to begin.  It all started in February when I started looking for organisations to contribute for the Google Summer of Code 2018. I knew the language was going to be Python, so straight I was into the PSF Sub Orgs. The next challenge was to select the sub org, I thought of going for core software development and not some specialised field.</description>
     </item>
     
     <item>
-      <title>GSoC Week 07 - The One With Generalised Periodicity</title>
-      <link>https://randomtestorg1.github.io/posts/gsoc-week-07/</link>
-      <pubDate>Thu, 07 Jul 2016 00:00:00 +0530</pubDate>
+      <title>Custom Bash</title>
+      <link>https://sangeet259.github.io/posts/custom-bash-config/</link>
+      <pubDate>Fri, 26 Jan 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/gsoc-week-07/</guid>
-      <description>This week I updated my PR#11277 to find the period of a general function.
-Periodicity In the past few weeks, I dedicated a lot of my time reading about the property of periodicity of a function. Earlier, I had implemented a trivial(and restricted) functionality for this task. This motivated me to study this topic as I planned to generalise the function.
-Here are my notes on periodicity which were the literature reference for the development of the method:</description>
+      <guid>https://sangeet259.github.io/posts/custom-bash-config/</guid>
+      <description>Every time I re-install Ubnutu I have to search the web for the custom shell and git promp configurations. They are really handy for git completions.
+  This time I thought to just put it down here.
+Steps :
+ Download : git-prompt.sh Save the above file as git-prompt.sh in the home directory Download : git-completion.bash Save the above file as git-completion.bash in the home directory Now open .bashrc file in any text editor and these lines at the end</description>
     </item>
     
     <item>
-      <title>GSoC Week 06 - The One with Singularities</title>
-      <link>https://randomtestorg1.github.io/posts/gsoc-week-06/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0530</pubDate>
+      <title>Matplotlib Backened change during Training a DL Model</title>
+      <link>https://sangeet259.github.io/posts/matplotlib-backend-dl-training/</link>
+      <pubDate>Sun, 07 Jan 2018 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/gsoc-week-06/</guid>
-      <description>This week I worked on the topic of singularities.
-Singularities  A singularity is in general a point at which a given mathematical object is not defined.
- Examples:
- 1/x has a singularity at x = 0 as it seems to reach infinity. |x| (Absolute) has a singularity at x = 0 since it is not differentiable at that point. √x (Square root) has a singularity at x = 0 since it doesnot admit a tangent there.</description>
+      <guid>https://sangeet259.github.io/posts/matplotlib-backend-dl-training/</guid>
+      <description>Matplotlib Backened change during Training a DL Model If you are training something on remote server where you dont have root access and get an error like your python is not configured for tkinter. This is nothing but maybe somewhere in your pipe
+Then you&amp;rsquo;re options are :
+ First install tkinter, note that since you do not have sudo priviledge, you have to install tcl8.6-dev and tk8.6-dev from source too.</description>
     </item>
     
     <item>
-      <title>GSoC Weeks 04 &amp; 05 - The One with Periodicity</title>
-      <link>https://randomtestorg1.github.io/posts/gsoc-week-04-05/</link>
-      <pubDate>Fri, 24 Jun 2016 00:00:00 +0530</pubDate>
+      <title>Being Pythonic</title>
+      <link>https://sangeet259.github.io/posts/being-pythonic/</link>
+      <pubDate>Thu, 07 Dec 2017 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/gsoc-week-04-05/</guid>
-      <description>Hi folks !
-The past couple of weeks were spent of developing heuristics for determining the fundamental period of a given trigonometric function.
-In our higher school, we all must have come across Trigonometric Functions. One of the most striking properties of these functions is their periodicty.
-The ability of a function to repeat its values in regular intervals has always caught my imagination.
-Motivation Well, SymPy ought to have a functionality to determine the period of a function.</description>
+      <guid>https://sangeet259.github.io/posts/being-pythonic/</guid>
+      <description>I had encountered several times words like map, zip, lambda, *args, **kwargs. This time I decided to look up the web and really get the hang of them. So here I was searching the net. Finally I came across some nice explaations which I pen down here :
+ Map, Zip and Lamda :: https://bradmontgomery.net/blog/pythons-zip-map-and-lambda/ **Args and **Kwargs :: https://pythontips.com/2013/08/04/args-and-kwargs-in-python-explained/  </description>
     </item>
     
     <item>
-      <title>GSoC Week 03 - The One With Function Range (Part II)</title>
-      <link>https://randomtestorg1.github.io/posts/gsoc-week-03/</link>
-      <pubDate>Fri, 10 Jun 2016 00:00:00 +0530</pubDate>
+      <title>Setting Up OpenCV</title>
+      <link>https://sangeet259.github.io/posts/opencv-setup/</link>
+      <pubDate>Thu, 07 Dec 2017 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/gsoc-week-03/</guid>
-      <description>Hey !
-This week I worked on implementing a method for finding the range of a function in a given domain. Following from last weeek&amp;rsquo;s research on the same, I tried to develop these utility functions.
-Implementation Here, I have defined the two functions along with some of their implementation details:
-continuous_in(f, x, interval)
-The function returns the sub-domains as an Union of Interval in case a discontinuity exists in the interval.</description>
+      <guid>https://sangeet259.github.io/posts/opencv-setup/</guid>
+      <description>I was trying to use the Tensorflow&amp;rsquo;s newly released Object Detection API on my webcam. I realised I couldn&amp;rsquo;t open webcam, OpenCV which was bundled with ROS was throwing all sorts of errors, I Googled and tried many hacky solution but all in vain.
+Now that my end sems were over I decided to install it fresh.
+This site : https://www.learnopencv.com/install-opencv3-on-ubuntu/ is a great walktrough through the installation process. It&amp;rsquo;s absolutely complete.</description>
     </item>
     
     <item>
-      <title>GSoC Week 02 - The One With Function Range (Part I)</title>
-      <link>https://randomtestorg1.github.io/posts/gsoc-week-02/</link>
-      <pubDate>Sat, 04 Jun 2016 00:00:00 +0530</pubDate>
+      <title>Obligatory Hello World post</title>
+      <link>https://sangeet259.github.io/posts/first-jekyll-post/</link>
+      <pubDate>Tue, 14 Nov 2017 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/gsoc-week-02/</guid>
-      <description>This week I worked on developing methods for computing the range of an univariate function. For this pupose, I spent most of my time in research; reading previous discussions on mailing lists, pull requests and wikis.
-Progress Suppose, we want to solve the following equation in the variable x:
-sin(x) = π / 2
-We can straight away state that this equations has no solutions as the range of the function sin is -1 to 1</description>
+      <guid>https://sangeet259.github.io/posts/first-jekyll-post/</guid>
+      <description>Hellooo World !
+ Okay So it&amp;rsquo;s already noon and I am setting up up my portfolio. While I already had a portfolio built in the summer as part of the SF Web Team Selections , but that one looked very childish and lacked professionalism. I was still sticking around with it until I saw Himanshu Mishra&amp;rsquo;s and Dibya Das&amp;rsquo;s portfolio . I was amazed that how simplistic these guys had made their portfolio.</description>
     </item>
     
     <item>
-      <title>GSoC Week 01 - The One with Intersections</title>
-      <link>https://randomtestorg1.github.io/posts/gsoc-week-01/</link>
-      <pubDate>Sun, 29 May 2016 00:00:00 +0530</pubDate>
+      <title>Setting Up CUDA</title>
+      <link>https://sangeet259.github.io/posts/cuda-setup/</link>
+      <pubDate>Tue, 14 Nov 2017 19:03:31 +0530</pubDate>
       
-      <guid>https://randomtestorg1.github.io/posts/gsoc-week-01/</guid>
-      <description>$ git log PR #11149 : Intersection of null Range and an Interval returns EmptySet
-PR #11164 : Intersection of certain ImageSets with Intervals
-In the next week, I will try to design a method to determine the range of a function in the given domain.
-This will require some digging up and a bit of research.
-Looking forward to it !</description>
-    </item>
-    
-    <item>
-      <title>Solving equations via Decomposition and Rewriting</title>
-      <link>https://randomtestorg1.github.io/posts/solving-equations-via-decomposition-and-rewriting/</link>
-      <pubDate>Sun, 22 May 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://randomtestorg1.github.io/posts/solving-equations-via-decomposition-and-rewriting/</guid>
-      <description>A robust framework for solving equations is a salient feature of any Computer Algebra System. An important idea in this regard is &amp;ldquo;Rewriting and Decomposition&amp;rdquo;. By using this techniques, we try to reduce the given equation to a set of simpler equations which can be solved with relative ease.
-An example here would be the best way to establish the significance of the above idea.
-If we have to solve for x in the equation f(x) = 0, where</description>
-    </item>
-    
-    <item>
-      <title>Auditing SymPy&#39;s Transcendental solver</title>
-      <link>https://randomtestorg1.github.io/posts/auditing-sympys-transcendental-solver/</link>
-      <pubDate>Sun, 15 May 2016 00:00:00 +0530</pubDate>
-      
-      <guid>https://randomtestorg1.github.io/posts/auditing-sympys-transcendental-solver/</guid>
-      <description>Having considered the current codebase of _tsolve function, I find the following few points considered while implementing the new solver:
- modularise the code for various classes of equations(LambertW, bivariate equation type, logarithmic, exponential).
- using SymPy Set objects internally, instead of using the built-in Python lists.
- use of decompogen function to check for possible decomposition of the given expression into simpler functions. handle the case where the given equation has no closed-form solution and infinite recursion occurs.</description>
+      <guid>https://sangeet259.github.io/posts/cuda-setup/</guid>
+      <description>CUDA Set Up The last time I tried to fiddle with CUDA I got stuck in a login loop and had to reinstall Ubuntu. Last day again I was sitting in front of a fresh installation of Ubuntu and nightmares of last time&amp;rsquo;s Tensorflow GPU setup were all but moments away.
+Anyway I had to do it.
+But surprisingly this time it was short and simple ( simpler would hae been a better choice ).</description>
     </item>
     
   </channel>
