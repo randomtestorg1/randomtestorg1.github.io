@@ -1,3 +1,3 @@
-# sangeet259.github.io
+# sangeetmishra.in
 
 My personal blog and website
