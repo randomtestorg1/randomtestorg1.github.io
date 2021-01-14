@@ -1,6 +1,122 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/</loc>
+    <lastmod>2019-02-22T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/categories/</loc>
+    <lastmod>2019-02-22T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/python/</loc>
+    <lastmod>2019-02-22T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/til/python-site-vs-dist-packages/</loc>
+    <lastmod>2019-02-22T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/</loc>
+    <lastmod>2019-02-22T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/categories/til/</loc>
+    <lastmod>2019-02-22T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/til/</loc>
+    <lastmod>2019-02-22T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/devops/</loc>
+    <lastmod>2019-02-18T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/docker/</loc>
+    <lastmod>2019-02-18T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/til/proxy-for-docker-files/</loc>
+    <lastmod>2019-02-18T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/til/function-search-across-project/</loc>
+    <lastmod>2019-02-16T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/til/cat-ce-vs-sparse-cat-ce/</loc>
+    <lastmod>2019-02-06T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/keras/</loc>
+    <lastmod>2019-02-06T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/mldlaiip/</loc>
+    <lastmod>2019-02-06T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/til/key-in-min_max/</loc>
+    <lastmod>2019-02-05T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/posts/</loc>
+    <lastmod>2019-02-04T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/categories/tech/</loc>
+    <lastmod>2019-02-04T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/tensorflow/</loc>
+    <lastmod>2019-02-04T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/posts/eager-execution-in-tensorflow/</loc>
+    <lastmod>2019-02-04T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/posts/ctx-in-python/</loc>
+    <lastmod>2019-02-03T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/extensions/</loc>
+    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/mercurial/</loc>
+    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/octobus/</loc>
+    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
+  </url>
   
   <url>
     <loc>https://randomtestorg1.github.io/posts/evolve-from-source/</loc>
@@ -8,8 +124,48 @@
   </url>
   
   <url>
+    <loc>https://randomtestorg1.github.io/til/files-in-colab/</loc>
+    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/colab/</loc>
+    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/data/</loc>
+    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/gpu/</loc>
+    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://randomtestorg1.github.io/til/http-in-https/</loc>
     <lastmod>2019-01-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/jupyter/</loc>
+    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/proxy/</loc>
+    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/fish/</loc>
+    <lastmod>2019-01-11T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/intropost/</loc>
+    <lastmod>2019-01-11T00:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -28,7 +184,22 @@
   </url>
   
   <url>
+    <loc>https://randomtestorg1.github.io/categories/gsoc/</loc>
+    <lastmod>2018-08-12T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/gsoc/</loc>
+    <lastmod>2018-08-12T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://randomtestorg1.github.io/posts/gcoc-final-post/</loc>
+    <lastmod>2018-08-12T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/psf/</loc>
     <lastmod>2018-08-12T19:03:31+05:30</lastmod>
   </url>
   
@@ -78,6 +249,16 @@
   </url>
   
   <url>
+    <loc>https://randomtestorg1.github.io/tags/customization/</loc>
+    <lastmod>2018-01-26T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/hacks/</loc>
+    <lastmod>2018-01-07T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://randomtestorg1.github.io/posts/matplotlib-backend-dl-training/</loc>
     <lastmod>2018-01-07T19:03:31+05:30</lastmod>
   </url>
@@ -90,6 +271,26 @@
   <url>
     <loc>https://randomtestorg1.github.io/posts/opencv-setup/</loc>
     <lastmod>2017-12-07T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/setup/</loc>
+    <lastmod>2017-12-07T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/blog/</loc>
+    <lastmod>2017-11-14T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/jekyll/</loc>
+    <lastmod>2017-11-14T19:03:31+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://randomtestorg1.github.io/tags/ml-dl-ai-ip/</loc>
+    <lastmod>2017-11-14T19:03:31+05:30</lastmod>
   </url>
   
   <url>
@@ -108,162 +309,15 @@
   </url>
   
   <url>
-    <loc>https://randomtestorg1.github.io/</loc>
-    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://randomtestorg1.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://randomtestorg1.github.io/tags/blog/</loc>
-    <lastmod>2017-11-14T19:03:31+05:30</lastmod>
-    <priority>0</priority>
+    <loc>https://randomtestorg1.github.io/authors/</loc>
   </url>
   
   <url>
-    <loc>https://randomtestorg1.github.io/categories/blog/</loc>
-    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/categories/</loc>
-    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/customization/</loc>
-    <lastmod>2018-01-26T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/deep-learning/</loc>
-    <lastmod>2018-01-07T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/devops/</loc>
-    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/docker/</loc>
-    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/extensions/</loc>
-    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/fish/</loc>
-    <lastmod>2019-01-11T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/gsoc/</loc>
-    <lastmod>2018-08-12T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/categories/gsoc/</loc>
-    <lastmod>2018-08-12T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/hacks/</loc>
-    <lastmod>2018-01-07T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/intropost/</loc>
-    <lastmod>2019-01-11T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/jekyll/</loc>
-    <lastmod>2017-11-14T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/mercurial/</loc>
-    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/ml-dl-ai-ip/</loc>
-    <lastmod>2017-12-07T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/octobus/</loc>
-    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/posts/</loc>
-    <lastmod>2019-01-22T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/proxy/</loc>
-    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/psf/</loc>
-    <lastmod>2018-08-12T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/python/</loc>
-    <lastmod>2017-12-07T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/setup/</loc>
-    <lastmod>2017-12-07T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/tags/</loc>
-    <lastmod>2017-11-14T19:03:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/categories/til/</loc>
-    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://randomtestorg1.github.io/til/</loc>
-    <lastmod>2019-01-21T00:00:00+05:30</lastmod>
-    <priority>0</priority>
+    <loc>https://randomtestorg1.github.io/series/</loc>
   </url>
   
 </urlset>
